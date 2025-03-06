@@ -5,7 +5,6 @@ This is a simple project that creates the flag of India using only basic HTML an
 ## 📌 Features
 
 - Uses basic HTML and CSS.
-- Properly aligned Ashoka Chakra in the center.
 - Responsive design with `position: absolute` for Chakra alignment.
 - Background image support for aesthetics.
 
@@ -15,7 +14,8 @@ This is a simple project that creates the flag of India using only basic HTML an
    ```sh
    git clone https://github.com/yourusername/indian-flag.git
 2. Open index.html in your browser.
-##Preview
+
+## Preview
 https://aanu3804.github.io/Indian-Flag/
 
 
