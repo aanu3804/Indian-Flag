@@ -11,4 +11,4 @@ This is a simple project that creates the flag of India using only basic HTML an
 ## Preview
 https://aanu3804.github.io/Indian-Flag/
 
-
+### Note :- It's just tesing of basics of HTML and CSS skills (like Div and Alignment)
