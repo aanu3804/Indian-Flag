@@ -8,13 +8,6 @@ This is a simple project that creates the flag of India using only basic HTML an
 - Responsive design with `position: absolute` for Chakra alignment.
 - Background image support for aesthetics.
 
-## 🚀 How to Run
-
-1. Clone this repository:
-   ```sh
-   git clone https://github.com/yourusername/indian-flag.git
-2. Open index.html in your browser.
-
 ## Preview
 https://aanu3804.github.io/Indian-Flag/
 
