@@ -10,4 +10,4 @@ This is a simple project that creates the flag of India using only basic HTML an
 ## 🖼 Preview
 [Live Demo](https://aanu3804.github.io/Indian-Flag/)
 
-> **Note:** This project is for **recollecting my HTML and CSS skills**, focusing on div usage and alignment.
+> **Note:** This project is just for **recollecting my HTML and CSS basics **, focusing on div usage and alignment.
